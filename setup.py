@@ -9,7 +9,7 @@ setup(
     name = "yama_util",
     version = "0.0.0",
     author = "kaengyama",
-    author_email = "ไม่บอกอะจะทำไม",
+    author_email = "pachitkaeng@gmail.com",
     description = "Sleepy cat all day and night",
     long_description = README,
     ong_description_content_type = "text/markdown",
