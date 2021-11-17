@@ -8,7 +8,7 @@ README = (HERE / "README.md").read_text()
 setup(
     name = "yama_util",
     version = "0.0.0",
-    author = "kaeng-yama",
+    author = "kaengyama",
     author_email = "ไม่บอกอะจะทำไม",
     description = "Sleepy cat all day and night",
     long_description = README,
