@@ -7,7 +7,7 @@ README = (HERE / "README.md").read_text()
 #This call to setup() does all the work
 setup(
     name = "yama_util",
-    version = "0.0.0.0.0.0.0.1",
+    version = "0.0.0",
     author = "kaeng-yama",
     author_email = "ไม่บอกอะจะทำไม",
     description = "Sleepy cat all day and night",
@@ -20,7 +20,7 @@ setup(
          "Programming Language :: Python :: 3",
          "Programming Language :: Python :: 3.7",
      ],
-     packages = ["yama_util"],
+     packages = ["yama_util"], # Name 
      include_package_data = True,
      install_requires = [],
  )
